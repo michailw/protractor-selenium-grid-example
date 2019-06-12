@@ -1,0 +1,11 @@
+{
+  "name": "k8s-selenium-grid-protractor-demo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "protractor demo.conf.js"
+  },
+  "dependencies": {
+    "protractor": "~5.4.0"
+  }
+}
